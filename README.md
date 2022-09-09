@@ -3,7 +3,7 @@
 Pong game is a two-dimensional table tennis game. There are two possibilities: to play with the computer or with the second player. The game finishes when one of the sides scores 5 points. The game was written using library pygame. 
 
 
-## Facilities:    
+## Features:    
 •	Scoreboard  
 •	Pause  
 •	Multiplayer    
